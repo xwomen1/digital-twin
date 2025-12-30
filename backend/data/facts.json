@@ -1,0 +1,21 @@
+{
+  "full_name": "Mary Linh",
+  "name": "Linh",
+  "current_role": "Software Engineer",
+  "location": "Vietnam",
+  "email": "do.linh@example.com",
+  "linkedin": "linkedin.com/in/dolinh",
+  "specialties": [
+    "Your specialty 1",
+    "Your specialty 2",
+    "Your specialty 3"
+  ],
+  "years_experience": 10,
+  "education": [
+    {
+      "degree": "Very good Degree",
+      "institution": "Your University",
+      "year": "2020"
+    }
+  ]
+}

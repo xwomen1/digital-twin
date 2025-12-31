@@ -10,17 +10,16 @@ Welcome to the **AI Digital Twin** project! This repository provides production-
 ## 🎥 Project Demonstration
 
 ### Demo Video
-Place `demo.mp4` into `frontend/public/` to display it here:
 
-<video width="100%" height="auto" controls poster="/image.svg">
-  <source src="/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Watch Demo Video](https://github.com/xwomen1/digital-twin/raw/main/public/demo.mp4)
 
 ### System Image
-Place `image.svg` into `frontend/public/`:
 
-![System Diagram](./frontend/public/image.svg)
+![System Architecture Diagram](https://raw.githubusercontent.com/xwomen1/digital-twin/main/public/image.svg)
+
+---
+
+**Local Setup**: To use these assets locally, place `demo.mp4` and `image.svg` in your `frontend/public/` folder. Files in `public/` are served at `/demo.mp4` and `/image.svg` at runtime.
 
 ## 🏗️ System Architecture
 

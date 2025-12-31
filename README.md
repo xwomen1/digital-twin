@@ -9,12 +9,26 @@ Welcome to the **AI Digital Twin** project! This repository provides production-
 
 ## 🎥 Project Demonstration
 
-Check out the AI Digital Twin in action: [Link to Video Demo](https://example.com) — replace with your video link (YouTube, Loom, Google Drive, etc.).
+### Demo Video
 
-### Show the demo video and system image locally
-- Place your demo video as `demo.mp4` and a poster image `image.svg` into the `frontend/public/` folder.
-- The Next.js frontend serves `public/` files at the site root, so the video will be accessible at `/demo.mp4` and the image at `/image.svg`.
-- If the UI supports embedding media in messages, reference those URLs (for example, `<video src="/demo.mp4" poster="/image.svg" controls />`).
+<https://github.com/user-attachments/assets/your-attachment-id-if-uploaded> <!-- Nếu bạn upload video qua GitHub Attachments để tránh 403 -->
+
+Hoặc xem trực tiếp (nếu file raw accessible):
+
+<video controls width="100%">
+  <source src="https://raw.githubusercontent.com/xwomen1/digital-twin/main/public/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+**Note**: Nếu video không load trên GitHub (do limit raw file), hãy tải về hoặc upload qua GitHub "Add file > Upload files" để embed tốt hơn.
+
+### System Architecture Image
+
+![System Architecture Diagram](https://raw.githubusercontent.com/xwomen1/digital-twin/main/public/image.svg)
+
+**Local Recommendation**: Để image và video hiển thị hoàn hảo khi run frontend local, copy `demo.mp4` và `image.svg` từ root `/public` vào `frontend/public/`. Next.js sẽ serve chúng tại `/demo.mp4` và `/image.svg`.
+
+## 🏗️ System Architecture
 
 ## 🏗️ System Architecture
 

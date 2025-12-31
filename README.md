@@ -11,24 +11,13 @@ Welcome to the **AI Digital Twin** project! This repository provides production-
 
 ### Demo Video
 
-<https://github.com/user-attachments/assets/your-attachment-id-if-uploaded> <!-- Nếu bạn upload video qua GitHub Attachments để tránh 403 -->
 
-Hoặc xem trực tiếp (nếu file raw accessible):
 
-<video controls width="100%">
-  <source src="https://raw.githubusercontent.com/xwomen1/digital-twin/main/public/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/53513ca0-072c-4209-bcbd-f7ec04072a6c
 
-**Note**: Nếu video không load trên GitHub (do limit raw file), hãy tải về hoặc upload qua GitHub "Add file > Upload files" để embed tốt hơn.
 
-### System Architecture Image
-
+### System Architecture Diagram
 ![System Architecture Diagram](https://raw.githubusercontent.com/xwomen1/digital-twin/main/public/image.svg)
-
-**Local Recommendation**: Để image và video hiển thị hoàn hảo khi run frontend local, copy `demo.mp4` và `image.svg` từ root `/public` vào `frontend/public/`. Next.js sẽ serve chúng tại `/demo.mp4` và `/image.svg`.
-
-## 🏗️ System Architecture
 
 ## 🏗️ System Architecture
 

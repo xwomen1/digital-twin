@@ -58,7 +58,7 @@ The architecture evolves from a local FastAPI development setup to a fully autom
 Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone git@github.com:xwomen1/digital-twin.git
 cd twin
 ```
 
